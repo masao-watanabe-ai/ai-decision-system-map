@@ -60,3 +60,10 @@ Local currency as distributed decision infrastructure.
 ## Contact
 - Email: masao.watanabe.ai@proton.me
 - LinkedIn: https://www.linkedin.com/in/masao-watanabe-ai
+
+## Writings / Background
+
+My long-form thoughts, design notes, and experiments are archived on my personal blog
+(approx. 1500 posts, written over many years):
+
+Blog: https://deus-ex-machina-ism.com/
