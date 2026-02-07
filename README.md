@@ -66,4 +66,4 @@ Local currency as distributed decision infrastructure.
 My long-form thoughts, design notes, and experiments are archived on my personal blog
 (approx. 1500 posts, written over many years):
 
-Blog: https://deus-ex-machina-ism.com/
+Blog: https://deus-ex-machina-ism.com/?lang=en
